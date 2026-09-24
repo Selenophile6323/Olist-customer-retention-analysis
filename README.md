@@ -43,7 +43,10 @@ tables covering ~99K orders, customers, products, payments, and reviews.
 
 ## Tools
 Python (pandas, matplotlib) for data cleaning and analysis, Power BI
-for the interactive dashboard *(in progress)*.
+for the interactive dashboard.
+
+## Dashboard Preview
+![Dashboard Overview](output/dashboard_overview.png)
 
 ## Limitations
 - One-time buyers were classified as "recent" vs "lapsed" using a
